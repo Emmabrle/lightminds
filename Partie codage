@@ -12,3 +12,13 @@ Pour la programmation du projet, nous utilisons les composants suivants:
 - Le capteur de la lumière
 - Carte Arduino UNO
 La programmation a été réalisé par et à l’aide du professeur. 
+
+
+Cinq régimes fonctionnels permettent d’adapter l’éclairage selon les besoins.
+Harmonisation des couleurs et de la luminosité grâce aux différents modes.
+AUTO ajuste automatiquement l’éclairage avec le capteur de lumière.
+Toutes les variations sont possibles : manuel, RGB, flash et extinction.
+
+Gestion du code facilitée grâce aux bibliothèques publiques et aux outils fournis.
+Programmation réalisée avec l’aide précieuse des professeurs et des ressources en ligne.
+Technologie utilisée : bande LED RVB, capteurs, boutons tactiles et Arduino UNO.
