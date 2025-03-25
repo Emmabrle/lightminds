@@ -1,0 +1,6 @@
+Partie Programmation 
+Nous avons développé un programme pour le bandeau LED de la lampe qui permet les actions suivantes :
+Allumer/éteindre
+Changer de couleurs
+Changer de mode (lumière aléatoire, éclairage optimal, variation de couleurs et d’intensités)
+Nous prévoyons d'approfondir le programme, mais il est actuellement complet et fonctionnel.
