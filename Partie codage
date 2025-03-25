@@ -1,0 +1,14 @@
+#Codage
+##Pour la partie du codage on a 5 régimes de la fonctionnellement, tels que : 
+Manuel (la possibilité de changer la couleur et la luminosité) ; AUTO (Le régime qui marche automatique
+avec le capteur de la lumière, la possibilité de changer la couler) ; RGB (La possibilité aussi
+changer la luminosité, variations de couleurs) ; FLASH (Le régime clignoter, la possibilité de
+changer la couleur) ; OFF (Éteindre la lampe).
+Nous avons réalisé nos lignes de codes grâce au moyens mis en place par les professeurs mais également grâce à des bibliothèques public en ligne. 
+
+Pour la programmation du projet, nous utilisons les composants suivants:
+- La bande LED RVB
+- Les trois boutons tactiles
+- Le capteur de la lumière
+- Carte Arduino UNO
+La programmation a été réalisé par et à l’aide du professeur. 
